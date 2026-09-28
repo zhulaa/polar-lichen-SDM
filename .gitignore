@@ -47,3 +47,12 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Raw data
+data/raw/
+
+# Model outputs
+models/output/
+
+# Temporary files
+*.tmp
